@@ -7,6 +7,8 @@ public class Calculate {
 		int a =10,b=10;
 		System.out.println("c= "+(a+b));
 		System.out.println("finished");
+System.out.println("finished");
+
 	}
 	
 
